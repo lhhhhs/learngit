@@ -55,6 +55,6 @@ int main(int argc,char*argv[]){
 		   }
 	}
 	else {
-		printf("×Ö·ûÊäÈë´íÎó\n");
+		rintf("×Ö·ûÊäÈë´íÎó\n"); 
 	}	
 }
